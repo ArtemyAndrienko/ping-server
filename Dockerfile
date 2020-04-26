@@ -4,4 +4,4 @@ ADD . /app
 RUN pip install -r app/requirements.txt
 
 WORKDIR /app
-CMD ["python", "ping-server.py"]
+CMD ["python", "ping-server.py", "-l", "0.0.0.0"]
