@@ -1,5 +1,7 @@
 # ping-server
 
+In response to GET, returns date/time string.
+
 ## Technologies
 - Python 3
 - Docker
