@@ -26,6 +26,8 @@ In browser `http://localhost:8000`
 `docker search pngan` #  list docker images in docker hub
 `docker push pngan/ping-server` # push image to docker hub
 
+## Using github actions to build docker image
+
 
 
 ## Generate requirements file
